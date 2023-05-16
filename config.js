@@ -12,9 +12,9 @@ import axios from 'axios'
 
 global.owner = [
 
-  ['94789060937', 'Uk', true],
+  ['94789060937', 'sandaru', true],
 
-  ['94701348196', 'Udith', true],
+  ['94701348196', 'Ash', true],
 
   [''] 
 
@@ -94,7 +94,7 @@ global.packname = '𝑈𝛫  𝐵𝛩𝑇'
 
 global.author = '@Udith' 
 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/\n' 
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/Udith04\n' 
 
 global.dygp = 'https://chat.whatsapp.com/FaOyI0ebx6O36PiK45nDNu'
 
